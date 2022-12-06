@@ -1,2 +1,2 @@
 # zad4PWI
-wprowadzam zmiany
+wprowadzILEM zmiany
